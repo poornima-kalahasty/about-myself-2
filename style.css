@@ -1,0 +1,28 @@
+html {
+  font-family: "Comic Sans MS"
+}
+
+
+h1 {
+  color: rgb(148, 4, 148);
+}
+body {
+  color: rgba(218, 22, 152, 0.849);
+}
+body  {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStKWm2Qf2W1Hqvqxo6ycuCBj5Mrbi_ylI-vA&usqp=CAU");
+  
+}
+
+h2 {
+  color:blue
+}
+h3 {
+  color:chocolate
+}
+h4 {
+  color :rgb(6, 78, 78)
+}
+h5 {
+  color :rgb(16, 63, 4)
+}
